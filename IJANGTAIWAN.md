@@ -8,7 +8,14 @@ Cluttered back rooms, overstuffed shelves, and lack of flexibility in display ar
 
 [**I JANG Taiwan**](https://i-jang.com/) stands at the forefront of designing innovative commercial retail storage solutions that optimize space and bolster efficiency for a diverse range of industries. As a leading Taiwan-based manufacturer with a state-of-the-art production facility, I JANG leverages automation and data-driven processes to deliver customizable storage solutions renowned for durability, ergonomics, and seamless integration.
 
-  
+  <p align="center">
+  <img
+      border="0"
+      data-original-height="357"
+      data-original-width="398"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTKTw4D0spCZ1iOlMIUuwhE0UHucBRxxCihlNmSgUIgaRhhyrKOqTgALgHoHdNZLRipqCppdoGvt36m8oSA_k8l88nFLpbVfCsnkuwwzPQEVYHc8ByRh8vO-Z4UXHItvB24qr4YAeFzrC5vrs1B9fopvKF4dXXXM_ZD1AJib_-c8FH-XXweHusM3C-_8lh/s16000/IJANG%20Taiwan%20cover.png"
+  />
+</p>
 
 Their expertise spans critical industries from healthcare to food service, manufacturing to retail display. By combining thoughtful design principles with emerging technology, I JANG empowers enterprises with smart storage that promotes productivity and drives competitive advantage. Their commitment to R&D and German-inspired craftsmanship ensures continuously evolving solutions that solve clients' greatest storage and space challenges. For any company seeking to transform their commercial environments, I JANG delivers storage innovation that maximizes every inch while minimizing costs.
 
